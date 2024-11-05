@@ -1,0 +1,2 @@
+# NoneBot2_AutoTestAction
+一个NoneBot2的自动测试并且发布测试报告的Action
